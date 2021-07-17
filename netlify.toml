@@ -1,2 +1,4 @@
 [build]
-  base = "project0"
+  base    = "project0"
+  publish = "project0/index.html/"
+  
